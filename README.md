@@ -1,6 +1,6 @@
 
 
-<img src="https://cdn3d.iconscout.com/3d/premium/thumb/businessman-working-at-office-with-finance-thinking-5019740-4183727.png" style="width: 100%;" alt="Description of the image">
+<img src="https://cdn3d.iconscout.com/3d/premium/thumb/businessman-working-at-office-with-finance-thinking-5019740-4183727.png" style="width: 50%;" alt="Description of the image">
 
 
 
