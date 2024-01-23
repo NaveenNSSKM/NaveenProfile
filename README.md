@@ -1,6 +1,6 @@
 
 
-<center><img src="https://storage.googleapis.com/pai-images/76761ec4d02841cb877062c8636f47ab.jpeg" alt="Description of the image"></center>
+<center><img src="https://storage.googleapis.com/pai-images/76761ec4d02841cb877062c8636f47ab.jpeg" style="width: 80%;" alt="Description of the image"></center>
 
 
 
