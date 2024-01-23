@@ -22,7 +22,7 @@
 ![](https://github-contributor-stats.vercel.app/api?username=NaveenNSSKM&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+<img src='https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw1ZVXTNcOSmXOffyMCedGH8&ust=1706084250744000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMiR_aiJ84MDFQAAAAAdAAAAABA1' style="height: 400px;"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=NaveenNSSKM&icon=0&color=0)](https://visitcount.itsvg.in)
